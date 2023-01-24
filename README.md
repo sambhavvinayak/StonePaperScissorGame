@@ -16,3 +16,4 @@ Step 4.>  If AI get Paper and you type Scissor then you win.
 Step 5.>  If AI get Stone and you type Scissor then you lose.
 Step 6.>  If AI get Scissor and you type Stone then you win.
   
+
